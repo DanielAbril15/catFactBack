@@ -11,8 +11,8 @@ out/
 *.userosscache
 *.sln.docstates
 
-# Visual Studio Code
-.vscode/
+# Visual Studio
+.vs/
 
 # Rider
 .idea/
