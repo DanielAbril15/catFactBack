@@ -1,0 +1,89 @@
+# Build results
+bin/
+obj/
+out/
+[Ll]og/
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# dotnet CLI
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+
+# Publish directory
+publish/
+wwwroot/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+*.pdb
+
+# Configuration
+appsettings.*.json
+secrets.json
+
+# EF Core Migrations snapshot
+*MigrationsSnapshot.cs
+
+# Docker artifacts
+Dockerfile.*
+docker-compose*
+*.dockerfile
+
+# LocalDB
+*.mdf
+*.ldf
+
+# JetBrains Rider and ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows image thumbnails
+ehthumbs.db
+
+# Backup files
+*.bak
+*.old
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Web.config transforms
+web.*.config
+
+# IIS Express
+.vs/

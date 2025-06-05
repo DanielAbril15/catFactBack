@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PruebasTecnicas\\BackendGodoy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\dtos\\historydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\dtos\\historydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\controllers\\factcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\controllers\\factcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Migrations\\20250605042855_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackendGodoy\\Migrations\\20250605042855_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\controllers\\gifcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\controllers\\gifcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\dtos\\historyinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\dtos\\historyinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\services\\gifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\services\\gifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\repository\\ihistorydatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\repository\\ihistorydatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\repository\\gifrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\repository\\gifrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\repository\\historyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\repository\\historyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\repository\\ifactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\repository\\ifactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\repository\\factrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\repository\\factrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\repository\\igifrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\repository\\igifrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\services\\factservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\services\\factservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|d:\\pruebastecnicas\\backendgodoy\\backendgodoy\\models\\catfactscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7200AE8E-C0E4-451F-85F7-50AABAF418DE}|BackendGodoy\\BackendGodoy.csproj|solutionrelative:backendgodoy\\models\\catfactscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Controllers\\HistoryController.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "BackendGodoy\\Controllers\\HistoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:17:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Services\\HistoryService.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Services\\HistoryService.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Services\\HistoryService.cs",
+              "RelativeToolTip": "BackendGodoy\\Services\\HistoryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:45:37.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GifRepository.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\GifRepository.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Repository\\GifRepository.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\GifRepository.cs",
+              "RelativeToolTip": "BackendGodoy\\Repository\\GifRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:01:56.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoryInsertDto.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\DTOs\\HistoryInsertDto.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\DTOs\\HistoryInsertDto.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\DTOs\\HistoryInsertDto.cs",
+              "RelativeToolTip": "BackendGodoy\\DTOs\\HistoryInsertDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:47:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Program.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Program.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Program.cs",
+              "RelativeToolTip": "BackendGodoy\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:26:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryDto.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\DTOs\\HistoryDto.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\DTOs\\HistoryDto.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\DTOs\\HistoryDto.cs",
+              "RelativeToolTip": "BackendGodoy\\DTOs\\HistoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:47:08.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250605042855_Init.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Migrations\\20250605042855_Init.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Migrations\\20250605042855_Init.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Migrations\\20250605042855_Init.cs",
+              "RelativeToolTip": "BackendGodoy\\Migrations\\20250605042855_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T04:28:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Models\\History.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Models\\History.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Models\\History.cs",
+              "RelativeToolTip": "BackendGodoy\\Models\\History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:36:15.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistoryRepository.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\HistoryRepository.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Repository\\HistoryRepository.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\HistoryRepository.cs",
+              "RelativeToolTip": "BackendGodoy\\Repository\\HistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:36:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendGodoy\\appsettings.json",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\appsettings.json",
+              "RelativeToolTip": "BackendGodoy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T03:31:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CatFactsContext.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Models\\CatFactsContext.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Models\\CatFactsContext.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Models\\CatFactsContext.cs",
+              "RelativeToolTip": "BackendGodoy\\Models\\CatFactsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T01:35:48.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 74,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GifController.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Controllers\\GifController.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Controllers\\GifController.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Controllers\\GifController.cs",
+              "RelativeToolTip": "BackendGodoy\\Controllers\\GifController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:14:13.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHistoryDataRepository.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\IHistoryDataRepository.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Repository\\IHistoryDataRepository.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\IHistoryDataRepository.cs",
+              "RelativeToolTip": "BackendGodoy\\Repository\\IHistoryDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:38:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GifService.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Services\\GifService.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Services\\GifService.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Services\\GifService.cs",
+              "RelativeToolTip": "BackendGodoy\\Services\\GifService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T03:07:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFactRepository.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\IFactRepository.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Repository\\IFactRepository.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\IFactRepository.cs",
+              "RelativeToolTip": "BackendGodoy\\Repository\\IFactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:10:59.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FactController.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Controllers\\FactController.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Controllers\\FactController.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Controllers\\FactController.cs",
+              "RelativeToolTip": "BackendGodoy\\Controllers\\FactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:23:15.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FactRepository.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\FactRepository.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Repository\\FactRepository.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\FactRepository.cs",
+              "RelativeToolTip": "BackendGodoy\\Repository\\FactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:06:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGifRepository.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\IGifRepository.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Repository\\IGifRepository.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Repository\\IGifRepository.cs",
+              "RelativeToolTip": "BackendGodoy\\Repository\\IGifRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:55:16.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FactService.cs",
+              "DocumentMoniker": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Services\\FactService.cs",
+              "RelativeDocumentMoniker": "BackendGodoy\\Services\\FactService.cs",
+              "ToolTip": "D:\\PruebasTecnicas\\BackendGodoy\\BackendGodoy\\Services\\FactService.cs",
+              "RelativeToolTip": "BackendGodoy\\Services\\FactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:12:57.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
